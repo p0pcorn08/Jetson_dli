@@ -1,6 +1,6 @@
 # dli
 구리고 진로 탐색 시간
--김민겸
+<b>-김민겸
 
 <b> Getting Started with AI on Jetson Nano
 
@@ -21,7 +21,7 @@
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
-<b>  jetson image
+<b>  Jetson image
 ![image](https://github.com/user-attachments/assets/21b360a0-6fc1-4f4d-89df-462b2ca14ca7)
 ![dds](https://github.com/user-attachments/assets/8bd6e24f-b075-4008-834d-2dc7780ae573)
 
