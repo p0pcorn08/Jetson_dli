@@ -19,4 +19,6 @@
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
-jetson
+<b>  jetson image
+![dds](https://github.com/user-attachments/assets/8bd6e24f-b075-4008-834d-2dc7780ae573)
+
