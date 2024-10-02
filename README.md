@@ -1,6 +1,6 @@
 # Jeston_dli
 <b> 구리고 진로 탐색 시간
-<b> -김민겸
+<b> - 김민겸
 
 <b> Getting Started with AI on Jetson Nano
 
