@@ -49,9 +49,9 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ```
 <b>  6. usb-camera  얼굴의 코 눈 인식하는 것도 해봄, 이미지 캡쳐와 영상 녹화 cctv기능 구현 j는 이미지 캡쳐, 1은 영상 녹화 시작 0은 영상녹화 스톱
 
-<b> capture
+```<b> capture
 ![image](https://github.com/user-attachments/assets/5f1358fc-cbc4-4bae-9ead-d9c32274a751)
-
+```
 ```       
 git clone https://github.com/jetsonhacks/USB-Camera.git
 cd USB-Camera
